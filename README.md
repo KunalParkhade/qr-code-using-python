@@ -77,7 +77,7 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/KunalParkhade/qr-code-using-python/blob/main/LICENSE) file for more details.
 
 ## Contact
 
