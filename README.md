@@ -73,7 +73,7 @@ img.save('youtube_qr.png')
 
 ## Contributing
 
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes and also read the `Contributing.md` file for Contribution Guidelines. Contributions are welcome!
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes and also read the [Contributing.md](https://github.com/KunalParkhade/qr-code-using-python/blob/main/Contributing.md) file for Contribution Guidelines. Contributions are welcome!
 
 ## License
 
